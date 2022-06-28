@@ -1,0 +1,12 @@
+ .slider{
+  background: url("../img/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+ }
+ .text-center{
+  color: bisque;
+ }
+.lead{
+  background-color: black;
+}
